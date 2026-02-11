@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Passing Memories (『原神』4周年記念テーマソング 英語ver.)",
+  "base_artist": "HOYO-MiX",
+  "createdAt": "2026-02-11T09:13:32.512856Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Passing Memories - 《原神》四週年英文主題曲",
+      "artist": "HOYO-MiX",
+      "has_synced": true,
+      "path": "select/01_Passing_Memories_-_《原神》四週年英文主題曲_HOYO-MiX.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Passing Memories",
+      "artist": "HOYO-MiX feat. Faouzia",
+      "has_synced": true,
+      "path": "select/02_Passing_Memories_HOYO-MiX_feat._Faouzia.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Passing Memories",
+      "artist": "Sati Akura",
+      "has_synced": true,
+      "path": "select/03_Passing_Memories_Sati_Akura.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "passing memories",
+      "artist": "hoyomix feat faouzia",
+      "has_synced": true,
+      "path": "select/04_passing_memories_hoyomix_feat_faouzia.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Passing Memories (Russian ver.)",
+      "artist": "Sati Akura",
+      "has_synced": true,
+      "path": "select/05_Passing_Memories_(Russian_ver.)_Sati_Akura.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Passing Memories (Genshin Impact's 4Th Anniversary English Theme Song)",
+      "artist": "HOYO-MiX",
+      "has_synced": true,
+      "path": "select/06_Passing_Memories_(Genshin_Impact's_4Th_Anniversary_English_Theme_Song)_HOYO-MiX.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Passing Memories - Genshin Impact's 4Th Anniversary English Theme Song",
+      "artist": "HOYO-MiX",
+      "has_synced": true,
+      "path": "select/07_Passing_Memories_-_Genshin_Impact's_4Th_Anniversary_English_Theme_Song_HOYO-MiX.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Passing Memories (Genshin Impact's 4Th Anniversary English Theme Song) (feat. Faouzia)",
+      "artist": "HOYO-MiX",
+      "has_synced": true,
+      "path": "select/08_Passing_Memories_(Genshin_Impact's_4Th_Anniversary_English_Theme_Song)_(feat._Fa_HOYO-MiX.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Passing Memories (Genshin Impact's 4Th Anniversary English Theme Song) (feat. Faouzia)",
+      "artist": "HOYO-MiX",
+      "has_synced": true,
+      "path": "select/09_Passing_Memories_(Genshin_Impact's_4Th_Anniversary_English_Theme_Song)_(feat._Fa_HOYO-MiX.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Passing Memories (《原神》四週年英文主題曲) (feat. Faouzia)",
+      "artist": "HOYO-MiX",
+      "has_synced": true,
+      "path": "select/10_Passing_Memories_(《原神》四週年英文主題曲)_(feat._Faouzia)_HOYO-MiX.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Passing Memories (Instrumental: Male Key Chinese Backing Vocals)",
+      "artist": "HOYO-MiX",
+      "has_synced": true,
+      "path": "select/11_Passing_Memories_(Instrumental__Male_Key_Chinese_Backing_Vocals)_HOYO-MiX.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Passing Memories (Instrumental: Female Key Japanese Backing Vocals)",
+      "artist": "HOYO-MiX",
+      "has_synced": true,
+      "path": "select/12_Passing_Memories_(Instrumental__Female_Key_Japanese_Backing_Vocals)_HOYO-MiX.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Passing Memories - Genshin Impact's 4Th Anniversary English Theme Song",
+      "artist": "HOYO-MiX, Faouzia",
+      "has_synced": true,
+      "path": "select/13_Passing_Memories_-_Genshin_Impact's_4Th_Anniversary_English_Theme_Song_HOYO-MiX,_Faouzia.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Passing Memories (feat. Faouzia) (Genshin Impact's 4Th Anniversary English Theme Song)",
+      "artist": "HOYO-MiX, Faouzia",
+      "has_synced": true,
+      "path": "select/14_Passing_Memories_(feat._Faouzia)_(Genshin_Impact's_4Th_Anniversary_English_Theme_HOYO-MiX,_Faouzia.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Passing Memories (instrumental: female key Japanese backing vocals)",
+      "artist": "HOYO‐MiX",
+      "has_synced": true,
+      "path": "select/15_Passing_Memories_(instrumental__female_key_Japanese_backing_vocals)_HOYO‐MiX.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Passing Memories (Instrumental: Female Key Japanese Backing Vocals)",
+      "artist": "HOYO-MiX",
+      "has_synced": true,
+      "path": "select/16_Passing_Memories_(Instrumental__Female_Key_Japanese_Backing_Vocals)_HOYO-MiX.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Passing Memories - 『原神』4周年記念テーマソング 英語ver.",
+      "artist": "HOYO-MiX, Faouzia",
+      "has_synced": false,
+      "path": "select/pl_01_Passing_Memories_-_『原神』4周年記念テーマソング_英語ver._HOYO-MiX,_Faouzia.txt"
+    }
+  ]
+}
