@@ -1,4 +1,4 @@
-# HOYO-MiX – Passing Memories (『原神』4周年記念テーマソング 英語ver.)
+# HOYO-MiX – Passing Memories (『原神』4周年記念テーマソング 英語ver.)（feat. Faouzia）
 
 > **歌詞登録ステータス：同期歌詞あり**
 
